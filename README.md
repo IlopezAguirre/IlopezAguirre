@@ -2,7 +2,7 @@
 
 # Hi, I'm Ian 👋
 
-### Computer Science @ USF · Accessibility-Focused Engineer · Hackathon Winner
+### Computer Science @ USF · Accessibility-Focused Engineer · 2x Hackathon Winner
 
 I build accessibility-focused systems at the intersection of artificial
 intelligence, embedded hardware, and real-time software.
