@@ -1,78 +1,114 @@
 <div align="center">
 
-# Hi, I'm Lopez 👋
+# Hi, I'm Ian 👋
 
-### Computer Science Student at the University of South Florida
+### Computer Science @ USF · Accessibility-Focused Engineer · Hackathon Winner
 
-I enjoy building practical projects with Python and artificial intelligence,
-especially projects involving accessibility, data, and real-world problem solving.
+I build accessibility-focused systems at the intersection of artificial
+intelligence, embedded hardware, and real-time software.
 
-[![GitHub](https://img.shields.io/badge/GitHub-llopezAguirre-181717?style=for-the-badge&logo=github)](https://github.com/llopezAguirre)
+My recent projects include a low-cost tactile Braille display and an
+AI-powered wearable that helps visually impaired users navigate their surroundings.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ianlopez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ianlopez)
+[![GitHub](https://img.shields.io/badge/GitHub-IlopezAguirre-181717?style=for-the-badge&logo=github)](https://github.com/IlopezAguirre)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Computer Science student at the University of South Florida
-- 🐍 Currently building projects primarily with Python
-- 🤖 Learning more about artificial intelligence and machine learning
-- 🛠️ Interested in accessibility technology and practical software
-- 🤝 Enjoy participating in hackathons and collaborative projects
-- 📚 Currently strengthening my problem-solving and data structures skills
+- 🎓 Computer Science student at the University of South Florida, graduating in 2029
+- 🛠️ Tech Director for SHPE and Tech Lead for GDG at USF
+- ♿ Interested in using technology to improve accessibility
+- 🤖 Building with computer vision, AI, embedded systems, and full-stack software
+- 🌎 Fluent in English and Spanish
+- 🚀 Currently developing my software engineering and data structures foundations
 
-## 🚀 Featured Projects
+## Featured Work
 
-| Project | Description | Technologies |
-|---|---|---|
-| [Echolocation Vest](https://github.com/llopezAguirre/Echolocation-Vest) | A hackathon prototype exploring wearable technology and obstacle awareness. | Python |
-| [World Cup 2026 AI Prediction Model](https://github.com/llopezAguirre/WC-2026-AI-Prediction-Model) | A machine-learning project exploring match predictions and tournament outcomes. | Python, AI/ML |
-| [Python CS50](https://github.com/llopezAguirre/Python-CS50) | Programming exercises and problem-solving practice completed while learning Python. | Python |
+### Brailliant — 2nd Place, Bloom Knights 2026
 
-## 🧰 Languages and Tools
+A low-cost physical Braille display that transforms text from a camera,
+PDF, or live screenshot into tactile output.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-</p>
+- Built with React, FastAPI, Electron, WebSockets, Tailwind, Swift, and ESP32
+- Synchronized visual, audio, and tactile output through one real-time system
+- Designed button-only navigation for deafblind accessibility
+- Created as an alternative to commercial devices costing more than $3,500
 
-## 📊 GitHub Activity
+> Add the project repository or demonstration link here when available.
+
+### [Echo Vest — Best AI, HackUSF 2026](https://github.com/IlopezAguirre/Echolocation-Vest)
+
+An AI-powered wearable that helps visually impaired users understand and
+navigate their surroundings through object detection, haptic feedback, and voice responses.
+
+- Processed live ESP32-CAM video at 10–15 FPS using YOLOv8
+- Achieved under 150 ms end-to-end detection latency
+- Controlled three haptic motors asynchronously through WebSockets
+- Combined MiDaS depth estimation, GPT-4o, and ElevenLabs
+
+### Hackabull VII Platform
+
+Co-developed the official Hackabull application used by 198 participants
+for check-in, scheduling, event information, and logistics.
+
+- Deployed a containerized Fastify backend with Docker Compose
+- Integrated Google Sheets for no-code schedule and attendee updates
+- Supported a three-day program containing 26 events
+- Helped organize an event with 200+ attendees and 58 project submissions
+
+> Add the team repository or deployed application link here when available.
+
+## Technologies
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+
+**Frameworks and Libraries**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Tools and Platforms**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+
+## GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=llopezAguirre&theme=transparent"
-    alt="GitHub contribution details"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlopezAguirre&theme=transparent"
+    alt="Ian's GitHub contribution summary"
   >
 </p>
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=llopezAguirre&show_icons=true&theme=transparent&hide_border=true"
-    alt="GitHub statistics"
-  >
-  <img
-    width="40%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=llopezAguirre&layout=compact&theme=transparent&hide_border=true"
-    alt="Most used languages"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=IlopezAguirre&theme=github-compact&hide_border=true&area=true"
+    alt="Ian's recent GitHub activity"
   >
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=llopezAguirre&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub activity graph"
-  >
-</p>
+## Currently Exploring
 
-## 🌱 Current Goals
-
-- Build more complete, documented Python projects
-- Improve my knowledge of data structures and algorithms
-- Learn the foundations of machine learning
-- Contribute to collaborative and open-source projects
-- Prepare for software engineering and technology internships
+- Data structures and algorithms
+- Production-ready backend development
+- Computer vision and embedded AI
+- Infrastructure monitoring and observability
+- Open-source collaboration
