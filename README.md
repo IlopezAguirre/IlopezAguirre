@@ -12,7 +12,7 @@ AI-powered wearable that helps visually impaired users navigate their surroundin
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ianlopez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ianlopez)
+[![LinkedIn](www.linkedin.com/in/ian-lopez-547806311)
 [![GitHub](https://img.shields.io/badge/GitHub-IlopezAguirre-181717?style=for-the-badge&logo=github)](https://github.com/IlopezAguirre)
 
 </div>
