@@ -12,7 +12,6 @@ AI-powered wearable that helps visually impaired users navigate their surroundin
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-IlopezAguirre-181717?style=for-the-badge\&logo=github)](https://github.com/IlopezAguirre)
 
 </div>
 
