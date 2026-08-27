@@ -36,7 +36,7 @@ PDF, or live screenshot into tactile output.
 * Designed button-only navigation for deafblind accessibility
 * Created as an alternative to commercial devices costing more than $3,500
 
-> Add the project repository or demonstration link here when available.
+
 
 ### [Echo Vest — Best AI, HackUSF 2026](https://devpost.com/software/echo-vest)
 
