@@ -2,7 +2,7 @@
 
 # Hi, I'm Ian 👋
 
-### Computer Science @ USF · Accessibility-Focused Engineer · 2x Hackathon Winner
+### Computer Science @ USF · Software Developer focused · 2x Hackathon Winner
 
 I build accessibility-focused systems at the intersection of artificial
 intelligence, embedded hardware, and real-time software.
@@ -12,7 +12,7 @@ AI-powered wearable that helps visually impaired users navigate their surroundin
 
 <br>
 
-[![LinkedIn](www.linkedin.com/in/ian-lopez-547806311)
+[![LinkedIn](www.linkedin.com/in/ian-lopez-547806311)]
 [![GitHub](https://img.shields.io/badge/GitHub-IlopezAguirre-181717?style=for-the-badge&logo=github)](https://github.com/IlopezAguirre)
 
 </div>
@@ -21,16 +21,14 @@ AI-powered wearable that helps visually impaired users navigate their surroundin
 
 ## About Me
 
-- 🎓 Computer Science student at the University of South Florida, graduating in 2029
-- 🛠️ Tech Director for SHPE and Tech Lead for GDG at USF
-- ♿ Interested in using technology to improve accessibility
+- 🎓 Computer Science student at the University of South Florida, graduating in 2028
+- 🛠️ Web Developer Lead for SHPEUSF and Tech Lead for Google Developer Group at USF
 - 🤖 Building with computer vision, AI, embedded systems, and full-stack software
-- 🌎 Fluent in English and Spanish
-- 🚀 Currently developing my software engineering and data structures foundations
+- 🚀 Currently working on cretaing the Hackjam26 MLH sponsored website (hack-jam26-4626heurq-shpeusf.vercel.app) and data structures foundations
 
 ## Featured Work
 
-### Brailliant — 2nd Place, Bloom Knights 2026
+### [Brailliant — 2nd Place, Bloom Knights 2026] (https://devpost.com/software/brailliant-s3l50t)
 
 A low-cost physical Braille display that transforms text from a camera,
 PDF, or live screenshot into tactile output.
@@ -42,7 +40,7 @@ PDF, or live screenshot into tactile output.
 
 > Add the project repository or demonstration link here when available.
 
-### [Echo Vest — Best AI, HackUSF 2026](https://github.com/IlopezAguirre/Echolocation-Vest)
+### [Echo Vest — Best AI, HackUSF 2026](https://devpost.com/software/echo-vest)
 
 An AI-powered wearable that helps visually impaired users understand and
 navigate their surroundings through object detection, haptic feedback, and voice responses.
@@ -62,7 +60,7 @@ for check-in, scheduling, event information, and logistics.
 - Supported a three-day program containing 26 events
 - Helped organize an event with 200+ attendees and 58 project submissions
 
-> Add the team repository or deployed application link here when available.
+> (https://github.com/gabrielft-me/Hackabull-Superapp)
 
 ## Technologies
 
@@ -109,6 +107,5 @@ for check-in, scheduling, event information, and logistics.
 
 - Data structures and algorithms
 - Production-ready backend development
-- Computer vision and embedded AI
-- Infrastructure monitoring and observability
-- Open-source collaboration
+- Computer vision and AI infra
+
