@@ -22,7 +22,7 @@ AI-powered wearable that helps visually impaired users navigate their surroundin
 * 🎓 Second-year Computer Science student at the University of South Florida, graduating in 2028
 * 🛠️ Web Developer Lead for SHPE USF and Tech Lead for the Google Developer Group at USF
 * 🤖 Building with computer vision, AI, embedded systems, and full-stack software
-* 🚀 Currently creating the [HackJam 2026 website](https://hack-jam26-4626heurq-shpeusf.vercel.app/) and strengthening my data structures foundations
+* 🚀 Currently creating the [HackJam 2026 website](https://www.hackjam26.com/) and strengthening my data structures foundations
 
 ## Featured Work
 
