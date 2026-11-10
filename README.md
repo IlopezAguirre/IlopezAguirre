@@ -2,7 +2,7 @@
 
 # Hi, I'm Ian 👋
 
-### Second-Year Computer Science Student @ USF · Software Developer Focused · Hackathon Enthusiast
+### Computer Science Student @ USF Graduating in Fall 28 · Software Developer Focused · Hackathon Enthusiast
 
 I build accessibility-focused systems at the intersection of artificial
 intelligence, embedded hardware, and real-time software.
